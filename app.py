@@ -432,4 +432,4 @@ def main():
         st.warning("Data not available for selected stock")
 
 if __name__ == "__main__":
-    main()
+    main() 
