@@ -1,19 +1,27 @@
 # flamingo
 AI-powered Stock Screener, Streamlit based website
 
+![images alt](https://github.com/Shashrwat/flamingostockscreener/blob/f1b42910be0d49c9b20cffa41ff1b770fd17bdd3/Screenshot%202025-05-15%20191232.png)
+
+![images alt](https://github.com/Shashrwat/flamingostockscreener/blob/f1b42910be0d49c9b20cffa41ff1b770fd17bdd3/Screenshot%202025-05-15%20191314.png)
+
+![images alt](https://github.com/Shashrwat/flamingostockscreener/blob/f1b42910be0d49c9b20cffa41ff1b770fd17bdd3/Screenshot%202025-05-15%20191337.png)
+
+![images alt](https://github.com/Shashrwat/flamingostockscreener/blob/f1b42910be0d49c9b20cffa41ff1b770fd17bdd3/Screenshot%202025-05-15%20191325.png)
+
 ```markdown
 # 🔥 Flamingo Stock Analytics
 
 ## 🌌 Features
-- **Real-time NSE/BSE Data** through Yahoo Finance API
-- **Interactive Visualizations**: Candlestick/Line/Area Charts
-- **AI-Powered Insights**: 7-day Forecast & Market Sentiment
-- **Advanced Analytics**:
+- Real-time NSE/BSE Data through Yahoo Finance API
+- Interactive Visualizations: Candlestick/Line/Area Charts
+- AI-Powered Insights: 7-day Forecast & Market Sentiment
+- Advanced Analytics:
   - Ownership Structure Breakdown
   - Returns Distribution (Gaussian KDE)
   - Volume Analysis
-- **Cosmic UI/UX** with Animated Elements
-- **Key Metrics**: P/E Ratio, Market Cap, 52W High/Low
+- Cosmic UI/UX with Animated Elements
+- Key Metrics: P/E Ratio, Market Cap, 52W High/Low
 
 ## 🚀 Installation
 1. Clone repository:
